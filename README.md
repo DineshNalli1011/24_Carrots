@@ -1,1 +1,1 @@
-# Project-of-Catering-Website
+Landing Page for Catering Website
