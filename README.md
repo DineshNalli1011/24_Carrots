@@ -1,1 +1,2 @@
-Landing Page for Catering Website
+# Catering Website
+ Landing Page
